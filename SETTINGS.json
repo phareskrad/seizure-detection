@@ -1,0 +1,7 @@
+{
+  "root": "",
+  "competition-data-dir": "data/train_test",
+  "data-cache-dir": "data/data-cache",
+  "submission-dir": "data/submissions",
+  "testing-dir": "data/testing"
+}
