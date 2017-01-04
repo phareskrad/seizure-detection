@@ -1,0 +1,1176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf3b6230-485c-4c31-8a10-b5013537aa03" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../seizure-detection/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../seizure-detection/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../seizure-detection/.idea/seizure-detection-master.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../seizure-detection/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../seizure-detection/common/Parser.py" afterPath="$PROJECT_DIR$/../seizure-detection/common/parser.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seizure-detection/seizure/io.py" afterPath="$PROJECT_DIR$/../seizure-detection/seizure/io.py" />
+    </list>
+    <ignored path="seizure-detection-master.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="seizure-detection-master" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.4037874">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="generator.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/../seizure-detection/common/utils/generator.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="190">
+                  <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="seizure_detection.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../seizure-detection/seizure_detection.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="114">
+                  <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+                  <folding>
+                    <element signature="e#618#647#0" expanded="false" />
+                    <element signature="e#660#2766#0" expanded="false" />
+                    <element signature="e#3219#3484#0" expanded="false" />
+                    <element signature="e#3486#3515#0" expanded="false" />
+                    <element signature="e#3912#4133#0" expanded="false" />
+                    <element signature="e#4226#4307#0" expanded="false" />
+                    <element signature="e#4718#4889#0" expanded="false" />
+                    <element signature="e#4900#5116#0" expanded="false" />
+                    <element signature="e#5127#5319#0" expanded="false" />
+                    <element signature="e#5330#5531#0" expanded="false" />
+                    <element signature="e#5542#5741#0" expanded="false" />
+                    <element signature="e#6307#6507#0" expanded="false" />
+                    <element signature="e#6846#7648#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="SETTINGS.json" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../seizure-detection/SETTINGS.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="133">
+                  <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="parser.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../seizure-detection/common/parser.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="304">
+                  <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="task.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../seizure-detection/common/task.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="304">
+                  <caret line="16" column="51" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="51" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/../seizure-detection/README.md">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="38">
+                  <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../seizure-detection" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/seizure/transforms.py" />
+        <option value="$PROJECT_DIR$/seizure/classifiers.py" />
+        <option value="$PROJECT_DIR$/seizure/parser.py" />
+        <option value="$PROJECT_DIR$/common/io.py" />
+        <option value="$PROJECT_DIR$/test.csv" />
+        <option value="$PROJECT_DIR$/common/utils.py" />
+        <option value="$PROJECT_DIR$/seizure/testing.py" />
+        <option value="$PROJECT_DIR$/S1_testing_data_with_minimal_dropout_overlaps.csv" />
+        <option value="$PROJECT_DIR$/../data/submissions/S1_testing_data_with_minimal_dropout_overlaps.csv" />
+        <option value="$PROJECT_DIR$/seizure/submit.py" />
+        <option value="$PROJECT_DIR$/common/task.py" />
+        <option value="$PROJECT_DIR$/seizure/tasks.py" />
+        <option value="$PROJECT_DIR$/common/data.py" />
+        <option value="$PROJECT_DIR$/common/pipeline.py" />
+        <option value="$PROJECT_DIR$/common/Parser.py" />
+        <option value="$PROJECT_DIR$/seizure/io.py" />
+        <option value="$PROJECT_DIR$/common/classifiers.py" />
+        <option value="$PROJECT_DIR$/seizure/models.py" />
+        <option value="$PROJECT_DIR$/seizure/runs.py" />
+        <option value="$PROJECT_DIR$/seizure/scores.py" />
+        <option value="$PROJECT_DIR$/seizure_detection.py" />
+        <option value="$PROJECT_DIR$/SETTINGS.json" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="15" />
+    <option name="y" value="8" />
+    <option name="width" value="1924" />
+    <option name="height" value="1204" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pyscript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pyscript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seizure-detection" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../seizure-detection" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Leon\work\kaggle\melbourne\pyscript\common\utils" />
+      <recent name="C:\Users\Leon\work\kaggle\melbourne\pyscript\common" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="seizure-detection-master" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="seizure-detection-master" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="seizure-detection-master" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="seizure-detection-master" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="seizure-detection-master" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="seizure-detection-master" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="seizure-detection-master" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf3b6230-485c-4c31-8a10-b5013537aa03" name="Default" comment="" />
+      <created>1473814182259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1473814182259</updated>
+    </task>
+    <task id="LOCAL-00001" summary="refactored">
+      <created>1483473562041</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1483473562041</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="15" y="8" width="1924" height="1204" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13202545" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3277311" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4117647" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295238" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20634921" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295238" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12513256" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286648" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="refactored" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactored" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="26" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/seizure/tasks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="112" column="42" selection-start-line="112" selection-start-column="8" selection-end-line="112" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#13#0" expanded="false" />
+            <element signature="e#132#482#0" expanded="false" />
+            <element signature="e#525#890#0" expanded="false" />
+            <element signature="e#927#1266#0" expanded="false" />
+            <element signature="e#1303#1765#0" expanded="false" />
+            <element signature="e#1810#2343#0" expanded="false" />
+            <element signature="e#2383#2834#0" expanded="false" />
+            <element signature="e#2874#3503#0" expanded="false" />
+            <element signature="e#3595#3715#0" expanded="false" />
+            <element signature="e#3740#3777#0" expanded="false" />
+            <element signature="e#3930#5236#0" expanded="false" />
+            <element signature="e#5368#6088#0" expanded="false" />
+            <element signature="e#6155#6616#0" expanded="false" />
+            <element signature="e#6729#6903#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/seizure/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="140" column="0" selection-start-line="140" selection-start-column="0" selection-end-line="142" selection-end-column="83" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+            <element signature="e#249#979#0" expanded="false" />
+            <element signature="e#1008#2102#0" expanded="false" />
+            <element signature="e#2133#3187#0" expanded="false" />
+            <element signature="e#3214#5535#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/seizure/runs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+          <folding>
+            <element signature="e#515#3376#0" expanded="false" />
+            <element signature="e#3413#3675#0" expanded="false" />
+            <element signature="e#3714#4197#0" expanded="false" />
+            <element signature="e#4228#4757#0" expanded="false" />
+            <element signature="e#4485#4695#0" expanded="false" />
+            <element signature="e#4799#6381#0" expanded="false" />
+            <element signature="e#6415#7084#0" expanded="false" />
+            <element signature="e#7126#7892#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/common/utils/generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/seizure/scores.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+            <element signature="e#141#363#0" expanded="false" />
+            <element signature="e#415#586#0" expanded="false" />
+            <element signature="e#621#696#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/seizure/io.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1558">
+          <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="94" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#171#4627#0" expanded="false" />
+            <element signature="e#586#2855#0" expanded="false" />
+            <element signature="e#2008#2030#0" expanded="false" />
+            <element signature="e#2897#3707#0" expanded="false" />
+            <element signature="e#3768#4627#0" expanded="false" />
+            <element signature="e#4656#4973#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/seizure/transforms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+            <element signature="e#511#665#0" expanded="false" />
+            <element signature="e#682#890#0" expanded="false" />
+            <element signature="e#910#1349#0" expanded="false" />
+            <element signature="e#1367#1905#0" expanded="false" />
+            <element signature="e#1924#2213#0" expanded="false" />
+            <element signature="e#2237#2390#0" expanded="false" />
+            <element signature="e#2422#2719#0" expanded="false" />
+            <element signature="e#2739#3033#0" expanded="false" />
+            <element signature="e#3053#3584#0" expanded="false" />
+            <element signature="e#3607#3943#0" expanded="false" />
+            <element signature="e#3973#4329#0" expanded="false" />
+            <element signature="e#4360#5183#0" expanded="false" />
+            <element signature="e#5207#5389#0" expanded="false" />
+            <element signature="e#5417#5620#0" expanded="false" />
+            <element signature="e#5652#5845#0" expanded="false" />
+            <element signature="e#5871#6202#0" expanded="false" />
+            <element signature="e#6284#6444#0" expanded="false" />
+            <element signature="e#6479#8302#0" expanded="false" />
+            <element signature="e#8344#9835#0" expanded="false" />
+            <element signature="e#9865#12065#0" expanded="false" />
+            <element signature="e#12095#14058#0" expanded="false" />
+            <element signature="e#14092#14861#0" expanded="false" />
+            <element signature="e#14902#15644#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/common/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#121#175#0" expanded="false" />
+            <element signature="e#202#388#0" expanded="false" />
+            <element signature="e#420#1780#0" expanded="false" />
+            <element signature="e#1381#1780#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/common/classifiers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="38" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="3" />
+          <folding>
+            <element signature="e#51#1077#0" expanded="false" />
+            <element signature="e#919#1077#0" expanded="false" />
+            <element signature="e#1106#1388#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/common/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#121#175#0" expanded="false" />
+            <element signature="e#202#388#0" expanded="false" />
+            <element signature="e#420#1780#0" expanded="false" />
+            <element signature="e#1381#1780#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/seizure_detection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="61" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
+          <folding>
+            <element signature="e#618#647#0" expanded="false" />
+            <element signature="e#660#2766#0" expanded="false" />
+            <element signature="e#3219#3484#0" expanded="false" />
+            <element signature="e#3486#3515#0" expanded="false" />
+            <element signature="e#3912#4133#0" expanded="false" />
+            <element signature="e#4226#4307#0" expanded="false" />
+            <element signature="e#4718#4889#0" expanded="false" />
+            <element signature="e#4900#5116#0" expanded="false" />
+            <element signature="e#5127#5319#0" expanded="false" />
+            <element signature="e#5330#5531#0" expanded="false" />
+            <element signature="e#5542#5741#0" expanded="false" />
+            <element signature="e#6307#6507#0" expanded="false" />
+            <element signature="e#6846#7648#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/common/utils/io.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/common/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#121#175#0" expanded="false" />
+            <element signature="e#202#388#0" expanded="false" />
+            <element signature="e#420#1780#0" expanded="false" />
+            <element signature="e#1381#1780#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/common/pipeline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/seizure/transforms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="30" column="43" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+            <element signature="e#511#665#0" expanded="false" />
+            <element signature="e#682#890#0" expanded="false" />
+            <element signature="e#910#1349#0" expanded="false" />
+            <element signature="e#1367#1905#0" expanded="false" />
+            <element signature="e#1924#2213#0" expanded="false" />
+            <element signature="e#2237#2390#0" expanded="false" />
+            <element signature="e#2422#2719#0" expanded="false" />
+            <element signature="e#2739#3033#0" expanded="false" />
+            <element signature="e#3053#3584#0" expanded="false" />
+            <element signature="e#3607#3943#0" expanded="false" />
+            <element signature="e#3973#4329#0" expanded="false" />
+            <element signature="e#4360#5183#0" expanded="false" />
+            <element signature="e#5207#5389#0" expanded="false" />
+            <element signature="e#5417#5620#0" expanded="false" />
+            <element signature="e#5652#5845#0" expanded="false" />
+            <element signature="e#5871#6202#0" expanded="false" />
+            <element signature="e#6284#6444#0" expanded="false" />
+            <element signature="e#6479#8302#0" expanded="false" />
+            <element signature="e#8344#9835#0" expanded="false" />
+            <element signature="e#9865#12065#0" expanded="false" />
+            <element signature="e#12095#14058#0" expanded="false" />
+            <element signature="e#14092#14861#0" expanded="false" />
+            <element signature="e#14902#15644#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/seizure/scores.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+            <element signature="e#141#363#0" expanded="false" />
+            <element signature="e#415#586#0" expanded="false" />
+            <element signature="e#621#696#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/seizure/tasks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="false" />
+            <element signature="e#132#482#0" expanded="false" />
+            <element signature="e#525#890#0" expanded="false" />
+            <element signature="e#927#1266#0" expanded="false" />
+            <element signature="e#1303#1765#0" expanded="false" />
+            <element signature="e#1810#2343#0" expanded="false" />
+            <element signature="e#2383#2834#0" expanded="false" />
+            <element signature="e#2874#3503#0" expanded="false" />
+            <element signature="e#3595#3715#0" expanded="false" />
+            <element signature="e#3740#3777#0" expanded="false" />
+            <element signature="e#3930#5236#0" expanded="false" />
+            <element signature="e#5368#6088#0" expanded="false" />
+            <element signature="e#6155#6616#0" expanded="false" />
+            <element signature="e#6729#6903#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/seizure_detection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1672">
+          <caret line="105" column="38" selection-start-line="105" selection-start-column="38" selection-end-line="105" selection-end-column="38" />
+          <folding>
+            <element signature="e#618#647#0" expanded="false" />
+            <element signature="e#660#2766#0" expanded="false" />
+            <element signature="e#3219#3484#0" expanded="false" />
+            <element signature="e#3486#3515#0" expanded="false" />
+            <element signature="e#3912#4133#0" expanded="false" />
+            <element signature="e#4226#4307#0" expanded="false" />
+            <element signature="e#4718#4889#0" expanded="false" />
+            <element signature="e#4900#5116#0" expanded="false" />
+            <element signature="e#5127#5319#0" expanded="false" />
+            <element signature="e#5330#5531#0" expanded="false" />
+            <element signature="e#5542#5741#0" expanded="false" />
+            <element signature="e#6307#6507#0" expanded="false" />
+            <element signature="e#6846#7648#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/common/utils/io.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/common/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#121#175#0" expanded="false" />
+            <element signature="e#202#388#0" expanded="false" />
+            <element signature="e#420#1780#0" expanded="false" />
+            <element signature="e#1381#1780#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/common/pipeline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/seizure/transforms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="30" column="43" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+            <element signature="e#511#665#0" expanded="false" />
+            <element signature="e#682#890#0" expanded="false" />
+            <element signature="e#910#1349#0" expanded="false" />
+            <element signature="e#1367#1905#0" expanded="false" />
+            <element signature="e#1924#2213#0" expanded="false" />
+            <element signature="e#2237#2390#0" expanded="false" />
+            <element signature="e#2422#2719#0" expanded="false" />
+            <element signature="e#2739#3033#0" expanded="false" />
+            <element signature="e#3053#3584#0" expanded="false" />
+            <element signature="e#3607#3943#0" expanded="false" />
+            <element signature="e#3973#4329#0" expanded="false" />
+            <element signature="e#4360#5183#0" expanded="false" />
+            <element signature="e#5207#5389#0" expanded="false" />
+            <element signature="e#5417#5620#0" expanded="false" />
+            <element signature="e#5652#5845#0" expanded="false" />
+            <element signature="e#5871#6202#0" expanded="false" />
+            <element signature="e#6284#6444#0" expanded="false" />
+            <element signature="e#6479#8302#0" expanded="false" />
+            <element signature="e#8344#9835#0" expanded="false" />
+            <element signature="e#9865#12065#0" expanded="false" />
+            <element signature="e#12095#14058#0" expanded="false" />
+            <element signature="e#14092#14861#0" expanded="false" />
+            <element signature="e#14902#15644#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/seizure/scores.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+            <element signature="e#141#363#0" expanded="false" />
+            <element signature="e#415#586#0" expanded="false" />
+            <element signature="e#621#696#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/seizure/tasks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="false" />
+            <element signature="e#132#482#0" expanded="false" />
+            <element signature="e#525#890#0" expanded="false" />
+            <element signature="e#927#1266#0" expanded="false" />
+            <element signature="e#1303#1765#0" expanded="false" />
+            <element signature="e#1810#2343#0" expanded="false" />
+            <element signature="e#2383#2834#0" expanded="false" />
+            <element signature="e#2874#3503#0" expanded="false" />
+            <element signature="e#3595#3715#0" expanded="false" />
+            <element signature="e#3740#3777#0" expanded="false" />
+            <element signature="e#3930#5236#0" expanded="false" />
+            <element signature="e#5368#6088#0" expanded="false" />
+            <element signature="e#6155#6616#0" expanded="false" />
+            <element signature="e#6729#6903#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/seizure_detection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1672">
+          <caret line="105" column="38" selection-start-line="105" selection-start-column="38" selection-end-line="105" selection-end-column="38" />
+          <folding>
+            <element signature="e#618#647#0" expanded="false" />
+            <element signature="e#660#2766#0" expanded="false" />
+            <element signature="e#3219#3484#0" expanded="false" />
+            <element signature="e#3486#3515#0" expanded="false" />
+            <element signature="e#3912#4133#0" expanded="false" />
+            <element signature="e#4226#4307#0" expanded="false" />
+            <element signature="e#4718#4889#0" expanded="false" />
+            <element signature="e#4900#5116#0" expanded="false" />
+            <element signature="e#5127#5319#0" expanded="false" />
+            <element signature="e#5330#5531#0" expanded="false" />
+            <element signature="e#5542#5741#0" expanded="false" />
+            <element signature="e#6307#6507#0" expanded="false" />
+            <element signature="e#6846#7648#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.csv" />
+    <entry file="file://$PROJECT_DIR$/S1_testing_data_with_minimal_dropout_overlaps.csv" />
+    <entry file="file://$PROJECT_DIR$/../data/submissions/S1_testing_data_with_minimal_dropout_overlaps.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/common/utils/io.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="59" column="29" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
+          <folding>
+            <element signature="e#127#383#0" expanded="false" />
+            <element signature="e#425#628#0" expanded="false" />
+            <element signature="e#673#883#0" expanded="false" />
+            <element signature="e#922#1231#0" expanded="false" />
+            <element signature="e#1274#1485#0" expanded="false" />
+            <element signature="e#1522#1832#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/common/utils/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#54#146#0" expanded="false" />
+            <element signature="e#179#213#0" expanded="false" />
+            <element signature="e#238#277#0" expanded="false" />
+            <element signature="e#303#331#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/common/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#121#175#0" expanded="false" />
+            <element signature="e#202#388#0" expanded="false" />
+            <element signature="e#420#1780#0" expanded="false" />
+            <element signature="e#1381#1780#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/common/pipeline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/seizure/io.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="132" column="0" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#171#4627#0" expanded="false" />
+            <element signature="e#586#2855#0" expanded="false" />
+            <element signature="e#2008#2030#0" expanded="false" />
+            <element signature="e#2897#3707#0" expanded="false" />
+            <element signature="e#3768#4627#0" expanded="false" />
+            <element signature="e#4656#4973#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/seizure/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="88" column="19" selection-start-line="88" selection-start-column="19" selection-end-line="88" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+            <element signature="e#249#979#0" expanded="false" />
+            <element signature="e#1008#2102#0" expanded="false" />
+            <element signature="e#2133#3187#0" expanded="false" />
+            <element signature="e#3214#5535#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/seizure/runs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+          <folding>
+            <element signature="e#515#3376#0" expanded="false" />
+            <element signature="e#3413#3675#0" expanded="false" />
+            <element signature="e#3714#4197#0" expanded="false" />
+            <element signature="e#4228#4757#0" expanded="false" />
+            <element signature="e#4485#4695#0" expanded="false" />
+            <element signature="e#4799#6381#0" expanded="false" />
+            <element signature="e#6415#7084#0" expanded="false" />
+            <element signature="e#7126#7892#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/seizure/scores.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+            <element signature="e#141#363#0" expanded="false" />
+            <element signature="e#415#586#0" expanded="false" />
+            <element signature="e#621#696#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/seizure/submit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="46" column="65" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="65" />
+          <folding>
+            <element signature="e#41#50#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/seizure/tasks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="863">
+          <caret line="204" column="0" selection-start-line="204" selection-start-column="0" selection-end-line="204" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="false" />
+            <element signature="e#132#482#0" expanded="false" />
+            <element signature="e#525#890#0" expanded="false" />
+            <element signature="e#927#1266#0" expanded="false" />
+            <element signature="e#1303#1765#0" expanded="false" />
+            <element signature="e#1810#2343#0" expanded="false" />
+            <element signature="e#2383#2834#0" expanded="false" />
+            <element signature="e#2874#3503#0" expanded="false" />
+            <element signature="e#3595#3715#0" expanded="false" />
+            <element signature="e#3740#3777#0" expanded="false" />
+            <element signature="e#3930#5236#0" expanded="false" />
+            <element signature="e#5368#6088#0" expanded="false" />
+            <element signature="e#6155#6616#0" expanded="false" />
+            <element signature="e#6729#6903#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/seizure/testing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="42" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/common/parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/seizure/transforms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1406">
+          <caret line="337" column="0" selection-start-line="337" selection-start-column="0" selection-end-line="337" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+            <element signature="e#511#665#0" expanded="false" />
+            <element signature="e#682#890#0" expanded="false" />
+            <element signature="e#910#1349#0" expanded="false" />
+            <element signature="e#1367#1905#0" expanded="false" />
+            <element signature="e#1924#2213#0" expanded="false" />
+            <element signature="e#2237#2390#0" expanded="false" />
+            <element signature="e#2422#2719#0" expanded="false" />
+            <element signature="e#2739#3033#0" expanded="false" />
+            <element signature="e#3053#3584#0" expanded="false" />
+            <element signature="e#3607#3943#0" expanded="false" />
+            <element signature="e#3973#4329#0" expanded="false" />
+            <element signature="e#4360#5183#0" expanded="false" />
+            <element signature="e#5207#5389#0" expanded="false" />
+            <element signature="e#5417#5620#0" expanded="false" />
+            <element signature="e#5652#5845#0" expanded="false" />
+            <element signature="e#5871#6202#0" expanded="false" />
+            <element signature="e#6284#6444#0" expanded="false" />
+            <element signature="e#6479#8302#0" expanded="false" />
+            <element signature="e#8344#9835#0" expanded="false" />
+            <element signature="e#9865#12065#0" expanded="false" />
+            <element signature="e#12095#14058#0" expanded="false" />
+            <element signature="e#14092#14861#0" expanded="false" />
+            <element signature="e#14902#15644#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cross_validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/common/task.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/seizure_detection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding>
+            <element signature="e#618#647#0" expanded="false" />
+            <element signature="e#660#2766#0" expanded="false" />
+            <element signature="e#3219#3484#0" expanded="false" />
+            <element signature="e#3486#3515#0" expanded="false" />
+            <element signature="e#3912#4133#0" expanded="false" />
+            <element signature="e#4226#4307#0" expanded="false" />
+            <element signature="e#4718#4889#0" expanded="false" />
+            <element signature="e#4900#5116#0" expanded="false" />
+            <element signature="e#5127#5319#0" expanded="false" />
+            <element signature="e#5330#5531#0" expanded="false" />
+            <element signature="e#5542#5741#0" expanded="false" />
+            <element signature="e#6307#6507#0" expanded="false" />
+            <element signature="e#6846#7648#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/SETTINGS.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/common/classifiers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="51" column="51" selection-start-line="51" selection-start-column="51" selection-end-line="51" selection-end-column="51" />
+          <folding>
+            <element signature="e#51#1077#0" expanded="false" />
+            <element signature="e#919#1077#0" expanded="false" />
+            <element signature="e#1106#1388#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seizure-detection/common/utils/generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import scipy.io
 import common.utils.time as time
-from common.Parser import Parser
+from common.parser import Parser
 
 
 class SeizureParser(Parser):
